@@ -11,9 +11,9 @@
 
 1. **Клонируйте репозиторий:**
    
-   ```git clone <ссылка_на_твой_репозиторий>```
+   ```git clone <https://github.com/DostonAsadov/my_todo_list.git>```
    
-   ```cd <название_папки>```
+   ```cd <my_todo_list>```
 
 2. **Установите зависимости:**
 
