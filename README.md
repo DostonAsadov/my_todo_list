@@ -1,4 +1,4 @@
-# Название твоего проекта (например, Task Management API)
+# My_todo_list REST API
 
 Краткое описание: REST API для управления задачами, написанное на Laravel 11.
 
